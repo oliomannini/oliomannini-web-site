@@ -2047,4 +2047,39 @@ form label {
   font-size: 22px;
 }
 
+.grey-bg {
+  background: #efefef
+}
+
+#ubea-hero .flexslider .slider-text > .slider-text-inner h1 {
+  font-size: 60px;
+  color: #cccccc;
+}
+
+#ubea-hero .flexslider .slider-text > .slider-text-inner h2 {
+  font-size: 40px;
+  color: #cccccc;
+}
+
+#ubea-hero .flexslider .slider-text > .slider-text-inner h2 em {
+  font-size: 40px;
+  font-style: normal;
+  color: #d9534f;
+}
+
+#ubea-hero .flexslider .slider-text > .slider-text-inner h3 {
+  font-size: 30px;
+  color: #cccccc;
+}
+
+#ubea-hero .flexslider .slider-text > .slider-text-inner h4 {
+  font-size: 24px;
+  color: #cccccc;
+}
+
+#ubea-hero .flexslider .slider-text > .slider-text-inner p {
+  color: #cccccc;
+}
+
+
 /*# sourceMappingURL=style.css.map */
